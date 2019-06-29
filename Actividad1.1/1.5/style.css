@@ -1,0 +1,42 @@
+/* darle fondo al nav*/
+header nav {
+    background: #B9BFD3;
+   padding: 1em 0.1em 1em 1em;
+    
+}
+
+/*---quitar puntos ala lista---*/
+header nav ul{
+    list-style: none;
+}
+
+/*forma los cuadros de navegacion*/
+header nav ul li{
+    display: inline-block;
+    margin-right: 0.1em;
+    background: #DBBF80;
+    padding: 0.1em 0.2em;
+    width: 8em;
+}
+/* modifica la letra */
+header nav ul li a{
+
+    display: inline-block;
+    color: #FFEDDB;
+    /*quita la linea  de enlace*/
+    text-decoration: none;
+    padding: 0.1em 0em;
+    /* centra la letra */
+    text-align: center;
+    /*pociciona la letra*/
+    width: 10em;
+    /*tamaño a la letra*/
+    font-size: 0.8em;
+}
+
+header nav ul li a:hover{
+    background: #99A7FF;
+    color: white;
+    padding-top: 0em 0em 0em 0em;
+    
+}
