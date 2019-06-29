@@ -1,0 +1,22 @@
+
+body {
+    width : 520px;
+    margin-left : auto;
+    margin-right : auto;
+    padding : 0px;
+    }
+
+
+table {
+        width: 100%;
+        border: 1px solid #000;
+      }
+td {
+        width: 25%;
+        text-align: left;
+        vertical-align: top;
+        border: 1px solid #000;
+        text-align: center;
+   justify-content: center;
+   align-items: center;
+    }
