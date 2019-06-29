@@ -1,0 +1,41 @@
+body{
+    background:rgb(236, 236, 87);
+
+    
+
+
+
+}
+
+#text{
+
+    background: rgb(107, 107, 27);
+    border: 1px solid yellowgreen;
+    border-style: dashed  ;
+    border-width: 9px;
+    width: 700px;
+    height: 200px;;
+    overflow: scroll;
+    
+    
+    
+    
+}
+
+.picture{
+
+    border: 10px solid orchid;
+    width: 300px;
+    height: 200px;
+}
+
+.important::-webkit-scrollbar{
+    overflow: scroll;
+    width: 7px;
+    background: rgb(48, 1, 1);
+}
+
+.important::-webkit-scrollbar-thumb{
+    overflow: scroll;
+    background: rgb(54, 6, 6);  
+}
