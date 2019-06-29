@@ -1,0 +1,32 @@
+header{
+    background: mediumaquamarine;
+    padding: 1em;
+    border: solid blue 2px; 
+}
+
+aside{
+   float: left;
+    background: rgba(27, 84, 160, 0.705);
+    padding: 1em;
+    margin-left:0px ;
+    margin-right:300px; 
+    height: 1400px;
+    border: solid blue 2px;
+}
+
+section{
+
+    background: grey;
+    padding: 10em;
+    margin-left:0px;
+    height: 1111px;
+    border: solid blue  2px;
+}
+
+footer{
+    background:lightblue;
+    padding: 1em;
+    margin-left: 0px;
+    height: 300px; 
+    border: solid blue  2px;
+}
